@@ -66,7 +66,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>test.com.app.model.Simple</mainClass>
+							<mainClass>com.app</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
