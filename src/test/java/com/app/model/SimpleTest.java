@@ -1,12 +1,12 @@
 package com.app.model;
 
-import static org.junit.Assert.*;
-import org.junit.*;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 public class SimpleTest {
   @Test
   public void testAdd() {
-    assertEquals(1, 1);
+    Assertions.assertEquals(1, 1);
   }
 }
 
